@@ -1,7 +1,7 @@
 # airtime-app
 Purchase airtime for multiple numbers easily
 
-**Steps to test**
+**Steps to test**<br>
 *Get public key and private key from wallets.africa<br>
 *Create a .env file and add the following variables Public_Key=yourpublickey Secret_Key=yoursecretkey.<br>
 *Run the app <code>node server.js</code><br>
