@@ -3,7 +3,7 @@ Purchase airtime for multiple numbers easily
 
 **Steps to test**<br>
 *Get public key and private key from wallets.africa<br>
-*Create a .env file and add the following variables Public_Key=yourpublickey Secret_Key=yoursecretkey.<br>
+*Create a .env file and add the following variables Public_Key=yourpublickey Secret_Key=yourprivatekey.<br>
 *Run the app <code>node server.js</code><br>
 *Go to postman and start testing<br>
 **Endpoints**<br>
