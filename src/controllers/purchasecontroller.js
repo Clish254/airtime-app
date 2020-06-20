@@ -1,4 +1,4 @@
-const purchasing = require("./purchase");
+
 const dotenv =require('dotenv').config()
 const axios = require("axios");
 var rp = require('request-promise');
